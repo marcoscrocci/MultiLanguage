@@ -1,0 +1,150 @@
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\csc.exe
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\System.Collections.Immutable.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\System.Reflection.Metadata.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\vbc.exe
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe.config
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll.config
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\MultiLanguage.pdb
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\fr\MultiLanguage.resources.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\EntityFramework.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Web.Infrastructure.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Owin.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Razor.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\WebGrease.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.Razor.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.pdb
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\EntityFramework.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\WebProjects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csprojResolveAssemblyReference.cache
+C:\WebProjects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeTexts.resources
+C:\WebProjects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeTexts.fr.resources
+C:\WebProjects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.GenerateResource.Cache
+C:\WebProjects\MultiLanguage\MultiLanguage\obj\Debug\fr\MultiLanguage.resources.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.dll
+C:\WebProjects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.pdb
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\csc.exe
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\System.Collections.Immutable.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\vbc.exe
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe.config
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll.config
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\MultiLanguage.pdb
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\fr\MultiLanguage.resources.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\EntityFramework.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Web.Infrastructure.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Owin.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Razor.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\WebGrease.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.Razor.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.pdb
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\EntityFramework.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csprojAssemblyReference.cache
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeTexts.resources
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeTexts.fr.resources
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.GenerateResource.cache
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.CoreCompileInputs.cache
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\fr\MultiLanguage.resources.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.CopyComplete
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.dll
+C:\Marcos\Projetos\Github\Visual Studio\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.pdb
